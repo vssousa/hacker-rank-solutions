@@ -1,1 +1,1 @@
-# hacker-rank-solutions
+# Repository with my submissions to Hacker Rank
